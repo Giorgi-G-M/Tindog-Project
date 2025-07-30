@@ -2,10 +2,6 @@
 
 TinDog is a fully responsive landing page for a fictional dog dating app — built with HTML, CSS, and Bootstrap. This front-end project focuses on layout, responsiveness, component styling, and user-friendly design.
 
-## Preview
-
-![TinDog Preview](./images/preview.png) <!-- Optional if you add a screenshot -->
-
 ## Tech Stack
 
 - HTML5  
